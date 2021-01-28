@@ -1,0 +1,5 @@
+students, student, name, usn, branch, section {
+	display: block;
+	font-size: 15px;
+	color: blue;
+}
